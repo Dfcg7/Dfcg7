@@ -41,18 +41,8 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/userupload/41576573/file/still-64959ccc79c5ea6dbe85905e30a75e48.gif?resize=400x300&vertical=center"  />
+<img align="right" height="100" src="https://cdn.dribbble.com/userupload/41576573/file/still-64959ccc79c5ea6dbe85905e30a75e48.gif?resize=400x300&vertical=center"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dfcg7/Dfcg7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dfcg7/Dfcg7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dfcg7/Dfcg7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dfcg7/Dfcg7/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+![snake gif](https://github.com/Dfcg7/Dfcg7/blob/output/github-snake-dark.svg)
