@@ -28,6 +28,10 @@
 
 ###
 
+<img align="right" height="100" src="https://cdn.dribbble.com/userupload/41576573/file/still-64959ccc79c5ea6dbe85905e30a75e48.gif?resize=400x300&vertical=center"  />
+
+###
+
 <div align="left">
   <a href="https://discord.gg/xZ7xudKT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -38,10 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="100" src="https://cdn.dribbble.com/userupload/41576573/file/still-64959ccc79c5ea6dbe85905e30a75e48.gif?resize=400x300&vertical=center"  />
 
 ###
 
